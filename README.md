@@ -21,63 +21,12 @@ This is the live portfolio of Muhammad Jowel, showcasing projects, skills, and e
 
 ---
 
-## Installation and Setup Instructions
-
-To run this project locally, follow these steps:
-
-### Prerequisites
-- Node.js (v16 or later recommended)
-- npm or yarn installed
-
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd portfolio-website
-   ```
-
-3. Install dependencies:
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
-
-4. Start the development server:
-   ```bash
-   npm run dev
-   # or
-   yarn dev
-   ```
-
-5. Open your browser and go to:
-   ```
-   http://localhost:3000
-   ```
-
----
-
-## Deployment
-
-This project is deployed on [Vercel](https://vercel.com). To deploy your own version:
-
-1. Push your repository to GitHub or another supported Git platform.
-2. Import your project on Vercel.
-3. Configure your build settings (Next.js is detected automatically).
-4. Deploy your project.
-
----
-
 ## Contact
 
-For inquiries or collaboration, reach out through the [Contact Form](https://muhammad-jowel.vercel.app/contact) on the website.
+For inquiries or collaboration, reach out through the [Contact Form](https://muhammad-jowel.vercel.app/) on the website.
 
 ---
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+Development by [Muhammad Jowel](https://muhammad-jowel.vercel.app/).
