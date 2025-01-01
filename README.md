@@ -1,36 +1,83 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio Website
 
-## Getting Started
+This is the live portfolio of Muhammad Jowel, showcasing projects, skills, and experiences. The website is deployed and can be accessed here:
 
-First, run the development server:
+[Live Website](https://muhammad-jowel.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
+- **About Section**: Highlighting professional background and skills.
+- **Projects**: Showcasing completed projects with links and details.
+- **Contact Form**: Allowing users to get in touch directly.
+- **Responsive Design**: Optimized for various devices including mobile, tablet, and desktop.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Technologies Used
+- **Frontend**: React.js, Next.js
+- **Styling**: Tailwind CSS (or other CSS framework used)
+- **Deployment**: Vercel
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Installation and Setup Instructions
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+To run this project locally, follow these steps:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Prerequisites
+- Node.js (v16 or later recommended)
+- npm or yarn installed
 
-## Deploy on Vercel
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+2. Navigate to the project directory:
+   ```bash
+   cd portfolio-website
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+3. Install dependencies:
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
+
+4. Start the development server:
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
+
+5. Open your browser and go to:
+   ```
+   http://localhost:3000
+   ```
+
+---
+
+## Deployment
+
+This project is deployed on [Vercel](https://vercel.com). To deploy your own version:
+
+1. Push your repository to GitHub or another supported Git platform.
+2. Import your project on Vercel.
+3. Configure your build settings (Next.js is detected automatically).
+4. Deploy your project.
+
+---
+
+## Contact
+
+For inquiries or collaboration, reach out through the [Contact Form](https://muhammad-jowel.vercel.app/contact) on the website.
+
+---
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
